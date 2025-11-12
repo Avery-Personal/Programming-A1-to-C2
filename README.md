@@ -1,4 +1,4 @@
-# Low Level Programming
+# Programming-A1-to-C2
 
 This repo helps developers learn **C**, **C++**, and **Rust** step-by-step using real example projects.
 
