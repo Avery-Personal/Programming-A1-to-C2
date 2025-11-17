@@ -16,7 +16,7 @@ This repo helps developers learn **C**, **C++**, and **Rust** step-by-step using
 
 > Every folder has a README that explains the goal, concept taught, and how to run the example.
 
---
+---
 
 ## Stages
 
@@ -28,7 +28,7 @@ This repo helps developers learn **C**, **C++**, and **Rust** step-by-step using
 
 > Linux/MacOS support is not fully added yet.
 
---
+---
 
 ## Learning Guidance
 
@@ -46,14 +46,14 @@ This repo is designed to teach **low-level programming** across C, C++, and Rust
 
 **Difficulty rating:** Each project is rated 1–5 for complexity and time investment.
 
---
+---
 
 ## Tips
 - Try translating the same project between **C**, **C++**, and **Rust** to feel the differences.  
 - Comment every version explaining how you’d do it differently in each language.  
 - Keep code short, readable, and practical, this repo’s about understanding, not performance.
 
---
+---
 
 ## Reference & Help
 
@@ -72,7 +72,7 @@ This repo is designed to teach **low-level programming** across C, C++, and Rust
 - “Effective Modern C++” by Scott Meyers
 - “Programming Rust” by Blandy & Orendorff
 
---
+---
 
 ## Contribution / How to Run
 
