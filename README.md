@@ -87,6 +87,9 @@ This repo is designed to teach **low-level programming** across C, C++, and Rust
 - **C++**: Compile with `g++ project.cpp -o project && ./project`  
 - **Rust**: Run with `cargo run --bin project_name` (each project can be a separate binary in `Cargo.toml`)  
 
+You can clone the repo if you ever want to run the code by typing the following in your terminal:
+`git clone https://github.com/Avery-Personal/Programming-A1-to-C2.git`
+
 **Community Resources:**
 - Use the GitHub Discussions tab to ask questions or propose features
 - Open issues for bugs, questions, or clarifications
