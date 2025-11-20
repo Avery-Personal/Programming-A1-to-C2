@@ -23,7 +23,7 @@ This repo helps developers learn **C**, **C++**, and **Rust** step-by-step using
 | Language | A1       | A2           | B1   | B2   | C1   | C2   |
 |----------|----------|--------------|------|------|------|------|
 | C        | Complete | Complete | In-The-Works | WIP | WIP | WIP |
-| C++      | In-The-Works   | WIP       | WIP | WIP | WIP | WIP |
+| C++      | Complete   | In-The-Works       | WIP | WIP | WIP | WIP |
 | Rust     | In-The-Works   | WIP       | WIP | WIP | WIP | WIP |
 
 > Linux/MacOS support is not fully added yet.
